@@ -18,7 +18,7 @@ git push origin main
 2. paste cmd
 3. enter
 4. Create index.html and input.css
-5.<link rel="stylesheet" href="./output.css"><!--  index.html -->
+5.<link rel="stylesheet" href="./output.css"><!-- ` index.html -->
  
 
 
